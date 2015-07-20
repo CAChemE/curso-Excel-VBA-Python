@@ -17,12 +17,12 @@
   * Funciones VBA
 
 * Sesión 4:
-  * Creación de formularios de usuario
+  * Introducción a Jupyter Notebooks
+  * Introducción a pandas
 
 * Sesión 5:
-    * Introducción a Jupyter Notebooks
-    * Introducción a Pandas
-    * Ejecución de código Python desde Excel (xlwings)
+  * Ejecución de código Python desde Excel (xlwings)
+  * Sustituyendo VBA por Python (pandas)
 
 El temario a cubrir incluirá:
   * Repaso a estadística unidimensional para control de calidad
