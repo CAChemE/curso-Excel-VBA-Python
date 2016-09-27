@@ -1,4 +1,5 @@
-# Curso de introducción a VBA Excel y pandas (Pyhton) para ingenieros químicos
+# Curso de introducción a VBA Excel y Pyhton
+http://cacheme.org/curso-introduccion-vba-excel-python/
 
 * Sesión 1: 
   * Funciones lógicas, anidadas y formatos condicionales
