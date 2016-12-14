@@ -1,31 +1,36 @@
 # Curso de introducción a VBA Excel y Pyhton
 http://cacheme.org/curso-introduccion-vba-excel-python/
 
-* Sesión 1: 
+* Bloque 1 (2 h) - I: 
   * Funciones lógicas, anidadas y formatos condicionales
+      - IF, OR, AND, VLOOKUP, HLOOKUP, INDEX, COUNTIF, IFERROR...
+      - Ejercicio
   * Asignación de nombres y rastreo de funciones
+      - Etiquetas (tags) a celdas y bloques...
+  * Tipos de variables o parámetros
+      - Texto (strings), enteros (integers),  enteros, fechas...
   * Validación, eliminación y protección de datos 
+      - Ejemplo y ejercicio
   * Filtro y ordenación de datos
   * Tablas y gráficos dinámicos
+      - Ejercicio práctico (vino)
  
-* Sesión 2:
+* Bloque 2 (2 h) - F:
   * Importación y exportación de datos
+      - Ejemplo de importar datos en .CSV y .dat
   * Automatización de procesos (macros)
   * Creación de controles de formulario
+      - Ejemplos
 
-* Sesión 3:
-  * Edición de macros, introducción a VBA
-  * Funciones VBA
+* Bloque 3 (4 h) - I&F:
+    * Edición de macros e introducción a VBA
+    * Administración de archivos con VBA
+    * Gestión de Hojas de trabajo con VBA
+    * Creación de funciones en VBA
 
-* Sesión 4:
-  * Introducción a Jupyter Notebooks
-  * Introducción a pandas
-
-* Sesión 5:
-  * Ejecución de código Python desde Excel (xlwings)
-  * Sustituyendo VBA por Python (pandas)
+* Bloque 4 (2 h) - I&F:
+    * Introducción a la creación de formularios de usuario con  Excel
+    * Limitaciones de VBA y cómo sustituirlo por Python (ejemplo)
 
 El temario a cubrir incluirá:
-  * Repaso a estadística unidimensional para control de calidad
   * Ejercicios de estádistica  y control de calidad (automatizados)
- 
