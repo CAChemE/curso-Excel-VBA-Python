@@ -1,4 +1,4 @@
-# Curso de introducción a VBA Excel y Pyhton
+# Curso de introducción a VBA Excel y Python
 http://cacheme.org/curso-introduccion-vba-excel-python/
 
 * Bloque 1 (2 h) - I: 
